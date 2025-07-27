@@ -1,2 +1,6 @@
 [[Sun Jul 27 15:57:01 CEST 2025]]: Initialized box ctflearn/forensics/milksbestfriend
 [[Sun Jul 27 15:57:03 CEST 2025]]: Added /home/kali/Downloads/oreo.jpg to loot.
+[[Sun Jul 27 16:24:38 CEST 2025]]: Running dd if=oreo.jpg of=oreo.rar bs=1 skip=9513 status=none (See /home/kali/machines/ctflearn/forensics/milksbestfriend/dd_if=oreo.jpg_of=oreo.rar_bs=1_skip=9513_status=none.txt)
+[[Sun Jul 27 16:26:04 CEST 2025]]: Running dd if=oreo.rar of=oreo2.rar bs=1 skip=2 status=none (See /home/kali/machines/ctflearn/forensics/milksbestfriend/dd_if=oreo.rar_of=oreo2.rar_bs=1_skip=2_status=none.txt)
+[[Sun Jul 27 16:26:10 CEST 2025]]: Running unrar e oreo2.rar (See /home/kali/machines/ctflearn/forensics/milksbestfriend/unrar_e_oreo2.rar.txt)
+[[Sun Jul 27 16:26:17 CEST 2025]]: Running xxd b.jpg (See /home/kali/machines/ctflearn/forensics/milksbestfriend/xxd_b.jpg.txt)

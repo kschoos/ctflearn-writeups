@@ -1,0 +1,9 @@
+
+UNRAR 7.01 beta 1 freeware      Copyright (c) 1993-2024 Alexander Roshal
+
+
+Extracting from oreo2.rar
+
+Extracting  b.jpg                                                         98%  OK 
+Extracting  a                                                             99%  OK 
+All OK
