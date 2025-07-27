@@ -1,0 +1,2 @@
+[[Sun Jul 27 15:57:01 CEST 2025]]: Initialized box ctflearn/forensics/milksbestfriend
+[[Sun Jul 27 15:57:03 CEST 2025]]: Added /home/kali/Downloads/oreo.jpg to loot.
