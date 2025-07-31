@@ -1,0 +1,3 @@
+[[Thu Jul 31 20:15:05 CEST 2025]]: Initialized box ctflearn/forensics/ACAPtureofaFlag
+[[Thu Jul 31 20:15:08 CEST 2025]]: Added /home/kali/Downloads/flag (4) to loot.
+[[Thu Jul 31 20:15:21 CEST 2025]]: Running wireshark flag (4) (See /home/kali/machines/ctflearn/forensics/ACAPtureofaFlag/wireshark_flag_(4).txt)
